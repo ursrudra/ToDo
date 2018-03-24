@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Grocery List</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_title_home">Items</string>
+    <string name="msg_no_notes">No Itemes, Take Rest Bro.!</string>
+    <string name="lbl_new_note_title">New Item</string>
+    <string name="lbl_edit_note_title">Edit Item</string>
+    <string name="hint_enter_note">Enter your item!</string>
+    <string name="hint_enter_qty">Enter your Quantity!</string>
+    <string name="done">Done</string>
+    <string name="lbl_new_item_qty">Item Qty</string>
+    <string name="choose">Choose</string>
+</resources>
